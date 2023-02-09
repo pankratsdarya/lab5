@@ -1,0 +1,14 @@
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\bin\Debug\lab5.exe
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\bin\Debug\lab5.pdb
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\lab5.MainForm.resources
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\lab5.Properties.Resources.resources
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\lab5.StartForm.resources
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\lab5.exe
+D:\Учеба\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\lab5.pdb
+D:\Учеба\lab5\lab5\lab5\obj\x86\Debug\lab5.exe
+D:\Учеба\lab5\lab5\lab5\obj\x86\Debug\lab5.pdb
+D:\Учеба\old\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\lab5.exe
+D:\Учеба\old\ООП_готовое\lab5\lab5\lab5\obj\x86\Debug\lab5.pdb
